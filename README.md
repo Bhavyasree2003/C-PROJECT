@@ -42,6 +42,7 @@ Run the program:
 Follow the on-screen instructions to navigate through the different options and manage the hospital.
 
 Contributing
+
 Contributions are welcome! If you find any issues or would like to contribute enhancements, please feel free to submit a pull request.
 
 License
