@@ -45,5 +45,4 @@ Contributing
 
 Contributions are welcome! If you find any issues or would like to contribute enhancements, please feel free to submit a pull request.
 
-License
-The Hospital Management System is open-source and uses the MIT License.
+
