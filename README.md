@@ -30,8 +30,7 @@ To use the Hospital Management System, follow these steps:
 
 Clone the repository:
 
-   git clone https://github.com/adivishnu-a/Hospital-Management-System
-Navigate to the directory:
+   git clone:https://github.com/Bhavyasree2003/Hospital-Management-System/tree/main
 
    cd Hospital-Management-System
 Compile the C program:
